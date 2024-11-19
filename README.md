@@ -10,4 +10,4 @@ lrzsz-pip与lrzsz原始版本的功能完全一致。主要修改如下：
 
 
 ## 许可证
-采用与原版lrzsz一样的[许可证](https://github.com/trzsz/lrzsz-win32?tab=License-1-ov-file)；一切法律效力以为准。
+采用与原版lrzsz一样的[许可证](https://github.com/trzsz/lrzsz-win32?tab=License-1-ov-file)；一切法律效力以原版为准。
